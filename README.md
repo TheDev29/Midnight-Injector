@@ -2,4 +2,4 @@
 Injector that puts code into a website
 
 ## Install
-- Copy the code in [Midnight Injector.js](Midnight-Injector/Midnight Injector.js)
+- Copy the code in [Midnight Injector](main/Midnight-Injector/Midnight-Injector.js)
